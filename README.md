@@ -4,13 +4,13 @@ This course covers hands-on labs (`laps`) to master Kubernetes (`k8s`). Each lap
 
 ## 📂 Course Structure
 
-### **Lap 1:**
+### **Lab 1:**
 - Setting Up Minikube
 - Deploying Your First Pod
 - Working with ReplicaSets
 - Creating Deployments
 
-### **Lap 2:**
+### **Lab 2:**
 - Default Limit Range
 - Limits and Requests
 - Node Affinity
@@ -20,14 +20,14 @@ This course covers hands-on labs (`laps`) to master Kubernetes (`k8s`). Each lap
 - Namespaces
 - Running a Java App from Docker Hub in a Pod
 
-### **Lap 3:**
+### **Lab 3:**
 - External Web Service (NodePort)
 - Internal Web Test (ClusterIP)
 - Testing Two Applications with Services
 - DaemonSet
 - Theoretical Questions and Solutions
 
-### **Lap 4:**
+### **Lab 4:**
 - Persistent Volume (PV) and Persistent Volume Claim (PVC)
 - Environment Variables
 - ConfigMap
@@ -36,7 +36,7 @@ This course covers hands-on labs (`laps`) to master Kubernetes (`k8s`). Each lap
 - Init Container
 - Multi-Container Pods
 
-### **Lap 5:**
+### **Lab 5:**
 - **Exploring `etcd`:**
     - Saving an `etcd` Snapshot
     - Examining `etcd` Data Directory
