@@ -1,6 +1,6 @@
-# Kubernetes 5-Lap
+# Kubernetes 5-Lab
 
-This course covers hands-on labs (`laps`) to master Kubernetes (`k8s`). Each lap includes a YAML configuration file.
+This course covers hands-on labs (`labs`) to master Kubernetes (`k8s`). Each lab includes a YAML configuration file.
 
 ## 📂 Course Structure
 
